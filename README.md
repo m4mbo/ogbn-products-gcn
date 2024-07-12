@@ -1,2 +1,2 @@
-# GCN_for_Node_Prediction_of_OGBN
-This repository showcases a straightforward implementation of a graph convolutional neural network using PyTorch Geometric for the node property prediction task of OGBN-Products.
+# GCN for Node Property Prediction
+This repository showcases a straightforward implementation of a graph convolutional neural network (GCN) using PyTorch Geometric for the node property prediction task of OGBN-Products.
